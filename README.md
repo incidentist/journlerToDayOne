@@ -1,5 +1,7 @@
 # README
 
+These two scripts can import Journler entries into Day One (http://dayoneapp.com/). The first script is an Apple Automation script (written in JavaScript) that exports entry data into an XML file. The second is a PHP script that imports the XML file into Day One using the Day One command-line interface.
+
 Requirements:
 
 OS X Yosemite or later, for Javascript Automation.
